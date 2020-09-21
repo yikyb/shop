@@ -1,0 +1,5 @@
+include ':mylibrary'
+include ':mylibrary'
+include ':app:mylibrary'
+include ':app'
+rootProject.name = "CrazyShopping"
